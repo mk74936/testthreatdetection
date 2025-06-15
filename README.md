@@ -1,2 +1,2 @@
-# testthreatdetection
-This repository is created as a part of In class Assignment for CLOD2003
+# ai-cloud-threat-detection
+AI-Powered Cloud Threat Detection and Response System across Azure and AWS
